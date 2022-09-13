@@ -42,7 +42,7 @@ gem "rest-client", "~> 2.1"
 
 gem 'json', '~> 2.6', '>= 2.6.2'
 
-gem 'sinatra-contrib', '~> 2.2', '>= 2.2.2',require: false
+gem 'sinatra-contrib'
 
 # These gems will only be used when we are running the application locally
 group :development do
